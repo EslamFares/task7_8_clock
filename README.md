@@ -2,15 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+## img from app
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <img src="https://github.com/EslamFares/task7_8_clock/blob/master/img_from_app/1.jpg" width="200" title="splashScreen"/>
+  <img src="https://github.com/EslamFares/task7_8_clock/blob/master/img_from_app/2.jpg" width="200" title="timepicker"/>
+  <img src="https://github.com/EslamFares/task7_8_clock/blob/master/img_from_app/3.jpg" width="200" title="user choose time and date correct"/>
+  <img src="https://github.com/EslamFares/task7_8_clock/blob/master/img_from_app/4.jpg" width="200" title="user cancel choose time and date "/>
+  
+</p>
